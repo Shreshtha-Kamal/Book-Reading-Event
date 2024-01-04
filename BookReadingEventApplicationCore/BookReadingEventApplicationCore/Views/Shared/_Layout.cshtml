@@ -1,0 +1,110 @@
+﻿@using Microsoft.AspNetCore.Http;
+@inject IHttpContextAccessor httpContextAccessor
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - HAPPY READING</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm bg-dark btn-group-lg border-bottom box-shadow mb-3 ">
+            <div class="container">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                @if (string.IsNullOrEmpty(Convert.ToString(Context.Session.GetString("Role"))) || Convert.ToString(Context.Session.GetString("Role")).Equals("User"))
+                {
+                    @Html.ActionLink("HAPPY READING", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                }
+                else
+                {
+                    @Html.ActionLink("HAPPY READING", "AllEvents", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                }
+                <div class="navbar-collapse collapse">
+
+                    <ul class="navbar-nav flex-grow-1">
+                        @if (string.IsNullOrEmpty(Convert.ToString(Context.Session.GetString("Role"))) || Convert.ToString(Context.Session.GetString("Role")).Equals("User"))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-white " asp-area="" asp-controller="Home" asp-action="Index">HOME </a>
+                            </li>
+
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="AllEvents">HOME </a>
+                            </li>
+
+                        }
+                        <li class="nav-item">
+
+                        </li>
+                        @if (!string.IsNullOrEmpty(Convert.ToString(Context.Session.GetString("IsLoggedIn"))))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-white" asp-area="" asp-controller="Event" asp-action="Index">MY EVENTS </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-white" asp-area="" asp-controller="Event" asp-action="EventsInvitedTo">EVENTS INVITED TO </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-white" asp-area="" asp-controller="Event" asp-action="Create">CREATE EVENT </a>
+                            </li>
+
+                        }
+
+                    </ul>
+
+                    <ul class="navbar-nav flex-grow-1 float-lg-left">
+
+
+                        @if (string.IsNullOrEmpty(Convert.ToString(Context.Session.GetString("IsLoggedIn"))))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-white" asp-area="" asp-controller="User" asp-action="Create">REGISTER</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-white" asp-area="" asp-controller="Login" asp-action="Login">LOGIN </a>
+                            </li>
+
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-white" asp-area="" asp-controller="Login" asp-action="Logout">LOGOUT</a>
+                            </li>
+                        }
+
+                    </ul>
+                </div>
+              
+            </div>
+        </nav>
+        
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted bg-dark text-center">
+        <div class="container text-white">
+            &copy; 2022 - MVC Assignment - <a href="https://site-stats.org/helpdesk.nagarro.com/ ">Customer-support </a>
+
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

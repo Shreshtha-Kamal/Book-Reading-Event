@@ -1,0 +1,79 @@
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.csprojAssemblyReference.cache
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.dll
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.pdb
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\Services.runtimeconfig.json
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\Services.runtimeconfig.dev.json
+C:\Users\rachittripathi\source\repos\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.genruntimeconfig.cache
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\Services.runtimeconfig.json
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\Services.runtimeconfig.dev.json
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\Services.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\Services.pdb
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.csproj.AssemblyReference.cache
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.dll
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.pdb
+D:\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.genruntimeconfig.cache
+C:\Users\muskanchahar\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Users\muskanchahar\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\Services.runtimeconfig.json
+C:\Users\muskanchahar\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\Services.runtimeconfig.dev.json
+C:\Users\muskanchahar\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\muskanchahar\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\muskanchahar\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\muskanchahar\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\muskanchahar\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.csproj.AssemblyReference.cache
+C:\Users\muskanchahar\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muskanchahar\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\muskanchahar\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\Users\muskanchahar\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\muskanchahar\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+C:\Users\muskanchahar\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.dll
+C:\Users\muskanchahar\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.pdb
+C:\Users\muskanchahar\source\repos\BookReadingEventApplicationCore\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.genruntimeconfig.cache
+C:\Users\kajalchauhan\Downloads\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Users\kajalchauhan\Downloads\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\Services.runtimeconfig.json
+C:\Users\kajalchauhan\Downloads\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\Services.runtimeconfig.dev.json
+C:\Users\kajalchauhan\Downloads\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\kajalchauhan\Downloads\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\kajalchauhan\Downloads\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\kajalchauhan\Downloads\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\kajalchauhan\Downloads\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.csproj.AssemblyReference.cache
+C:\Users\kajalchauhan\Downloads\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kajalchauhan\Downloads\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\kajalchauhan\Downloads\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\Users\kajalchauhan\Downloads\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\kajalchauhan\Downloads\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+C:\Users\kajalchauhan\Downloads\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.dll
+C:\Users\kajalchauhan\Downloads\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.pdb
+C:\Users\kajalchauhan\Downloads\BookReadingEventApplicationCore (1)\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.genruntimeconfig.cache
+D:\Used later\Assignments\mvc\MVC\MVC\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+D:\Used later\Assignments\mvc\MVC\MVC\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\Services.runtimeconfig.json
+D:\Used later\Assignments\mvc\MVC\MVC\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\Services.runtimeconfig.dev.json
+D:\Used later\Assignments\mvc\MVC\MVC\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\Services.dll
+D:\Used later\Assignments\mvc\MVC\MVC\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\Services.pdb
+D:\Used later\Assignments\mvc\MVC\MVC\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\Used later\Assignments\mvc\MVC\MVC\BookReadingEventApplicationCore\Services\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\Used later\Assignments\mvc\MVC\MVC\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.csproj.AssemblyReference.cache
+D:\Used later\Assignments\mvc\MVC\MVC\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Used later\Assignments\mvc\MVC\MVC\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+D:\Used later\Assignments\mvc\MVC\MVC\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+D:\Used later\Assignments\mvc\MVC\MVC\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+D:\Used later\Assignments\mvc\MVC\MVC\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+D:\Used later\Assignments\mvc\MVC\MVC\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.dll
+D:\Used later\Assignments\mvc\MVC\MVC\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.pdb
+D:\Used later\Assignments\mvc\MVC\MVC\BookReadingEventApplicationCore\Services\obj\Debug\netcoreapp3.1\Services.genruntimeconfig.cache

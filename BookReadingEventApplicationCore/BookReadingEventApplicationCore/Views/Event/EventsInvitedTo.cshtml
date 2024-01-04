@@ -1,0 +1,25 @@
+﻿@model IEnumerable<DataAccessLayer.DatabaseModels.Event>
+
+@{
+    ViewData["Title"] = "EventsInvitedTo";
+}
+
+<h3 class="main text-center">EVENTS INVITED TO</h3>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.ActionLink(item.Title, "Details", "Home", new { id = item.EventID }, htmlAttributes: new { @class = " " })
+            </td>
+        </tr>
+    }
+
+</table>
